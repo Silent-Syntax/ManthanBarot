@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanBarot&label=Profile%20views&color=0e75b6&style=flat" alt="manthanbarot" /> </p>
 
-<p align="left"> <a href="https://github.com/ManthanBarot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManthanBarot" alt="manthanbarot" /></a> </p>
+<p align="left"> <a href="https://github.com/ManthanBarot/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=ManthanBarot" alt="manthanbarot" /></a> </p>
 <h3> Twitter: </h3>
 <p align="left"> <a href="https://twitter.com/manthan42932436" target="blank"><img src="https://img.shields.io/twitter/follow/manthan42932436?logo=twitter&style=for-the-badge" alt="manthan42932436" /></a> </p>
 
