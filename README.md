@@ -29,9 +29,11 @@
 <br><br>
 
 <h3> Most Languages </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanbarot&show_icons=true&locale=en&layout=compacttheme=blue-green" alt="manthanbarot" /></p><br>
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanbarot&show_icons=true&locale=en&layout=compacttheme=blue-green" alt="manthanbarot" /></p>
+<br>
+<br>
+<br>
+<br>
 <h3> Github Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBarot&show_icons=true&theme=highcontrast" alt="manthanbarot" /></p>
 
