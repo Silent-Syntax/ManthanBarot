@@ -45,7 +45,6 @@
 <br>
 <br>
 <br>
-<br>
 <h3> Github Stats: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBarot&show_icons=true&theme=highcontrast" alt="manthanbarot" /></p>
 
