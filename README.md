@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanBarot&label=Profile%20views&color=0e75b6&style=flat" alt="manthanbarot" /> </p>
 
 <p align="left"> <a href="https://github.com/ManthanBarot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManthanBarot" alt="manthanbarot" /></a> </p>
+<br>
+
+<p align="left"> <a href="https://twitter.com/manthan42932436" target="blank"><img src="https://img.shields.io/twitter/follow/manthan42932436?logo=twitter&style=for-the-badge" alt="manthan42932436" /></a> </p>
 
 - 🔭 I’m currently working on . [COSMIC](https://discord.com/oauth2/authorize?client_id=876691394176098335&permissions=8&scope=bot%20applications.commands)
 
