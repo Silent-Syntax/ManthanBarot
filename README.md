@@ -16,7 +16,7 @@
 - 📫 How to reach me **https://discord.gg/k3AAKeDt3G**
 
 - ⚡ Fun fact **I'm cool.**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manthan42932436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manthan42932436" height="30" width="40" /></a>
