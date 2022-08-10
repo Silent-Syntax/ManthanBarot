@@ -45,5 +45,6 @@
 
 <h3>Contributions And Streaks</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanbarot&" alt="manthanbarot" /></p>
+<h3> Spotify Recently Played </h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=siox1kzbmskjvsrcjdlklb9i7&unique={true|1|on|yes})
