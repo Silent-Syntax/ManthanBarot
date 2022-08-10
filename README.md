@@ -1,7 +1,7 @@
  <h1 align="center">Hi :wave: , I'm Manthan Barot</h1>
 <h3 align="center">A newbie Discord Bot Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanbarot&label=Profile%20views&color=0e75b6&style=flat" alt="manthanbarot" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ManthanBarot-ma&theme=onedark" alt="manthanbarot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanbarot" alt="manthanbarot" /></a> </p>
 
