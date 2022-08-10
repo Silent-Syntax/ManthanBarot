@@ -16,9 +16,11 @@
 - 📫 How to reach me **https://discord.gg/k3AAKeDt3G**
 
 - ⚡ Fun fact **I'm cool.**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/manthan42932436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manthan42932436" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18275121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18275121" height="30" width="40" /></a>
 <a href="https://instagram.com/_tommy.shelby_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tommy.shelby_._" height="30" width="40" /></a>
 <a href="https://discord.gg/k3AAKeDt3G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k3AAKeDt3G" height="30" width="40" /></a>
 </p>
