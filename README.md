@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanBarot&label=Profile%20views&color=0e75b6&style=flat" alt="manthanbarot" /> </p>
 
 <p align="left"> <a href="https://github.com/ManthanBarot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManthanBarot" alt="manthanbarot" /></a> </p>
-<br>
-<h4> Twitter </h4>
+<h3> Twitter: </h3>
 <p align="left"> <a href="https://twitter.com/manthan42932436" target="blank"><img src="https://img.shields.io/twitter/follow/manthan42932436?logo=twitter&style=for-the-badge" alt="manthan42932436" /></a> </p>
 
 - 🔭 I’m currently working on . [COSMIC](https://discord.com/oauth2/authorize?client_id=876691394176098335&permissions=8&scope=bot%20applications.commands)
@@ -31,7 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kindkid2391"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kindkid2391" /></a></p>
 <br><br>
 
-<h3> Most Languages </h3>
+<h3> Most Languages: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanbarot&show_icons=true&locale=en&layout=compacttheme=blue-green" alt="manthanbarot" /></p>
 <br>
 <br>
@@ -43,11 +42,11 @@
 <br>
 <br>
 <br>
-<h3> Github Stats </h3>
+<h3> Github Stats: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBarot&show_icons=true&theme=highcontrast" alt="manthanbarot" /></p>
 
-<h3>Contributions And Streaks</h3>
+<h3>Contributions And Streaks:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanbarot&" alt="manthanbarot" /></p>
-<h3> Spotify Recently Played </h3>
+<h3> Spotify Recently Played: </h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=siox1kzbmskjvsrcjdlklb9i7&unique={true|1|on|yes})
