@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanBarot&label=Profile%20views&color=0e75b6&style=flat" alt="manthanbarot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanbarot" alt="manthanbarot" /></a> </p>
+<p align="left"> <a href="https://github.com/ManthanBarot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManthanBarot" alt="manthanbarot" /></a> </p>
 
 - 🔭 I’m currently working on . [COSMIC](https://discord.com/oauth2/authorize?client_id=876691394176098335&permissions=8&scope=bot%20applications.commands)
 
