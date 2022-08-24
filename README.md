@@ -53,4 +53,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBarot&" alt="manthanbarot" /></p>
 <h3> Spotify Recently Played: </h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=siox1kzbmskjvsrcjdlklb9i7&unique={true|1|on|yes})
+![Alt text](https://accounts.spotify.com/authorize?client_id=e0e76d9fb28541589295fffd50a5d37f&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/)
