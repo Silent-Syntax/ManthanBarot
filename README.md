@@ -34,7 +34,7 @@
 <br><br>
 
 <h3> Most Languages: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBarot&layout=dark"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBarot&layout=compac&show_icons=true&theme=midnight-purple"
         alt="manthanbarot" /></p>
 <br>
 <br>
