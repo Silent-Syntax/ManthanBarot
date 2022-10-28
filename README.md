@@ -51,5 +51,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBarot&show_icons=true&theme=highcontrast" alt="manthanbarot" /></p>
 
 <h3>Contributions And Streaks:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBarot&" alt="manthanbarot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBarot&theme=midnight-purple" alt="manthanbarot" /></p>
  
