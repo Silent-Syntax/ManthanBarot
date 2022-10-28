@@ -53,4 +53,4 @@
 <h3>Contributions And Streaks:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBarot&theme=midnight-purple" alt="manthanbarot" /></p>
  
-https://discord.c99.nl/widget/theme-2/774566975497437204.png
+<img src="https://discord.c99.nl/widget/theme-2/774566975497437204.png">
