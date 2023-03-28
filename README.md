@@ -64,7 +64,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanbarot&show_icons=true&theme=algolia&locale=en&layout=compact" alt="manthanbarot" /></p>
 
- 
+ <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanbarot&theme=algolia" alt="manthanbarot" /></p>
  
 <img src="https://discord.c99.nl/widget/theme-2/774566975497437204.png">
