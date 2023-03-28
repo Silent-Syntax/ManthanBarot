@@ -1,8 +1,7 @@
  <h1 align="center">Hi 👋, I'm Manthan Barot</h1>
 <h3 align="center">A newbie frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanbarot&label=Profile%20views&color=0e75b6&style=flat" alt="manthanbarot" /> </p>
-<p align="center">
+ <p align="center">
 <a href="https://github.com/ManthanBarot">
    <img src="https://komarev.com/ghpvc/?username=ManthanBarot&logo=contact_man&style=for-the-badge" alt="node.js">
 </a>
