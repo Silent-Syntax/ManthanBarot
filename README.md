@@ -3,20 +3,20 @@
 
  <p align="center">
 <a href="https://github.com/ManthanBarot">
-   <img src="https://komarev.com/ghpvc/?username=ManthanBarot&logo=contact_man&style=for-the-badge&theme=algolia" alt="node.js">
+   <img src="https://komarev.com/ghpvc/?username=ManthanBarot&logo=contact_man&style=for-the-badge" alt="node.js">
 </a>
-<a href="https://github.com/Spark4bhi">
-   <img src="https://img.shields.io/github/followers/ManthanBarot?label=Follow&logo=github&style=for-the-badge&theme=algolia" alt="github-follow">
+<a href="https://github.com/ManthanBarot">
+   <img src="https://img.shields.io/github/followers/ManthanBarot?label=Follow&logo=github&style=for-the-badge" alt="github-follow">
 </a>
 
 <p align="center">
 
 <a href="https://github.com/ManthanBarot/ManthanBarot">
-   <img src="https://img.shields.io/github/forks/ManthanBarot/ManthanBarot?logo=githubactions&logoColor=success&style=social&theme=algolia" alt="github-fork">
+   <img src="https://img.shields.io/github/forks/ManthanBarot/ManthanBarot?logo=githubactions&logoColor=success&style=social" alt="github-fork">
 </a>
 
 <a href="https://github.com/ManthanBarot/ManthanBarot">
-   <img src="https://img.shields.io/github/stars/ManthanBarot/ManthanBarot?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social&theme=algolia" alt="github-repo-stars">
+   <img src="https://img.shields.io/github/stars/ManthanBarot/ManthanBarot?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
 </a>
 
 </p>
@@ -24,7 +24,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanbarot" alt="manthanbarot" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanbarot&theme=algolia" alt="manthanbarot" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thomas_shelby_8" target="blank"><img src="https://img.shields.io/twitter/follow/thomas_shelby_8?logo=twitter&style=for-the-badge" alt="thomas_shelby_8" /></a> </p>
 
