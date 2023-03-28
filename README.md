@@ -2,6 +2,28 @@
 <h3 align="center">A newbie frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanbarot&label=Profile%20views&color=0e75b6&style=flat" alt="manthanbarot" /> </p>
+<p align="center">
+<a href="https://github.com/ManthanBarot">
+   <img src="https://komarev.com/ghpvc/?username=ManthanBarot&logo=contact_man&style=for-the-badge" alt="node.js">
+</a>
+<a href="https://github.com/Spark4bhi">
+   <img src="https://img.shields.io/github/followers/ManthanBarot?label=Follow&logo=github&style=for-the-badge" alt="github-follow">
+</a>
+
+<p align="center">
+
+<a href="https://github.com/ManthanBarot/ManthanBarot">
+   <img src="https://img.shields.io/github/forks/ManthanBarot/ManthanBarot?logo=githubactions&logoColor=success&style=social" alt="github-fork">
+</a>
+
+<a href="https://github.com/ManthanBarot/ManthanBarot">
+   <img src="https://img.shields.io/github/stars/ManthanBarot/ManthanBarot?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
+</a>
+
+</p>
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanbarot" alt="manthanbarot" /></a> </p>
 
