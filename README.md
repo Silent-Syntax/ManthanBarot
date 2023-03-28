@@ -3,20 +3,20 @@
 
  <p align="center">
 <a href="https://github.com/ManthanBarot">
-   <img src="https://komarev.com/ghpvc/?username=ManthanBarot&logo=contact_man&style=for-the-badge" alt="node.js">
+   <img src="https://komarev.com/ghpvc/?username=ManthanBarot&logo=contact_man&style=for-the-badge&theme=algolia" alt="node.js">
 </a>
 <a href="https://github.com/Spark4bhi">
-   <img src="https://img.shields.io/github/followers/ManthanBarot?label=Follow&logo=github&style=for-the-badge" alt="github-follow">
+   <img src="https://img.shields.io/github/followers/ManthanBarot?label=Follow&logo=github&style=for-the-badge&theme=algolia" alt="github-follow">
 </a>
 
 <p align="center">
 
 <a href="https://github.com/ManthanBarot/ManthanBarot">
-   <img src="https://img.shields.io/github/forks/ManthanBarot/ManthanBarot?logo=githubactions&logoColor=success&style=social" alt="github-fork">
+   <img src="https://img.shields.io/github/forks/ManthanBarot/ManthanBarot?logo=githubactions&logoColor=success&style=social&theme=algolia" alt="github-fork">
 </a>
 
 <a href="https://github.com/ManthanBarot/ManthanBarot">
-   <img src="https://img.shields.io/github/stars/ManthanBarot/ManthanBarot?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
+   <img src="https://img.shields.io/github/stars/ManthanBarot/ManthanBarot?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social&theme=algolia" alt="github-repo-stars">
 </a>
 
 </p>
@@ -43,7 +43,7 @@
 - 🎯 Next step React.js
  
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me: 
 <p align="left">
 <a href="https://codepen.io/manthanbarot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manthanbarot" height="30" width="40" /></a>
 <a href="https://twitter.com/thomas_shelby_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thomas_shelby_8" height="30" width="40" /></a>
