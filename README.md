@@ -64,8 +64,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanbarot&show_icons=true&locale=en&layout=compact" alt="manthanbarot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanbarot&show_icons=true&locale=en" alt="manthanbarot" /></p>
-
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanbarot&" alt="manthanbarot" /></p>
  
 <img src="https://discord.c99.nl/widget/theme-2/774566975497437204.png">
