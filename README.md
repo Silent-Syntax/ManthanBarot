@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [website](manthanbarot.github.io)
+- 🔭 I’m currently working on [website](https://manthanbarot.github.io)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript and Python**
 
