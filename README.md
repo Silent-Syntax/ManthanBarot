@@ -69,5 +69,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanbarot&" alt="manthanbarot" /></p>
  
 <img src="https://discord.c99.nl/widget/theme-2/774566975497437204.png">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Manthan Barot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManthanBarot&show_icons=true)
+![Manthan Barot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManthanBarot&count_private=true)
