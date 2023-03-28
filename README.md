@@ -30,11 +30,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [website]()
+- 🔭 I’m currently working on [website](manthanbarot.github.io)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript and Python**
-
-- 👨‍💻 All of my projects are available at [manthanbarot.github.io](manthanbarot.github.io)
 
 - 📫 How to reach me **barotmanthan1748@gmail.com**
 
